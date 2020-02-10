@@ -11,9 +11,6 @@ Instalação:
 Testar:
     Para testar a API é recomendado acessar a documentação da API para ter acesso aos end-points 
     
-    DOCUMENTAÇÃO:
-        https://app.swaggerhub.com/apis-docs/AlisonMartins014/PGMAIS/1.0.0#/
-
 Propriedades da API:
 
     Sistema Operacional:
